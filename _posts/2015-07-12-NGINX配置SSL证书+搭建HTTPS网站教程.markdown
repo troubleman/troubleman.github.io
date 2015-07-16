@@ -2,8 +2,8 @@
 layout: post
 title:  "NGINX 配置 SSL 证书 + 搭建 HTTPS 网站教程"
 date:   2015-07-12 10:22
-categories: nginx ssl https
-tags: nginx
+categories: nginx
+tags: nginx ssl https
 ---
 一、HTTPS 是什么？
 -----------------
