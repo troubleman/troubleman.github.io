@@ -6,7 +6,7 @@ tags: MySQL
 keywords: MySQL
 description:
 ---
-##原文地址
+## 原文地址
 [MySQL常用资源 -- yansu.org](http://yansu.org/2014/05/11/general-mysql-resources.html)
 
 ## 常用命令

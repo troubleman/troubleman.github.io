@@ -6,7 +6,7 @@ tags: Python
 keywords: Python
 description:
 ---
-##原文地址
+## 原文地址
 [Python 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-python-resources.html)
 
 ## 常用代码

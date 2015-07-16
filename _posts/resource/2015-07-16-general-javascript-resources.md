@@ -6,7 +6,7 @@ tags: JavaScript
 keywords: JavaScript
 description:
 ---
-##原文地址
+## 原文地址
 [JavaScript 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-javascript-resources.html)
 
 ## 常用代码

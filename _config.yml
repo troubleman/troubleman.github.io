@@ -34,11 +34,11 @@ disqus_shortname: peiwenhao
 
 # Build settings
 markdown: kramdown
+highlighter: pygments
 
 kramdown:
   input: GFM
 
 sass:
   style: compressed
-gems:
-  - jekyll-sitemap
+

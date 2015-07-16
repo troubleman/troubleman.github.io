@@ -6,7 +6,7 @@ tags: jQuery
 keywords: jQuery
 description:
 ---
-##原文地址
+## 原文地址
 [jQuery 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-jquery-resources.html)
 
 ## 官方资源

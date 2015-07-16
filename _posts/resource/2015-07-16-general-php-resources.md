@@ -6,7 +6,7 @@ tags: PHP
 keywords: PHP
 description:
 ---
-##原文地址
+## 原文地址
 [PHP 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-php-resources.html)
 
 ## 常用资源

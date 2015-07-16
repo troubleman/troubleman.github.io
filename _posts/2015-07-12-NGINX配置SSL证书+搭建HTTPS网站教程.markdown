@@ -186,6 +186,6 @@ EV SSL，是 Extended Validation 的简称，更注重于对企业网站的安�
 [NGINX - PhoenixWiki](https://wiki.phoenixlzx.com/page/NGINX/)
 
 
-##原文地址
+## 原文地址
 [NGINX 配置 SSL 证书 + 搭建 HTTPS 网站教程 - S.HOW](https://s.how/nginx-ssl/)
 

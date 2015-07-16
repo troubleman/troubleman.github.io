@@ -133,8 +133,8 @@ SplClassloader的实现
         }
     }
 
-##原文地址
+## 原文地址
 [PHP的PSR-0命名标准-尘缘的博客](http://www.4wei.cn/archives/1002186)
 
-##拓展
+## 拓展
 [PSR-4——新鲜出炉的PHP规范](http://segmentfault.com/a/1190000000380008)

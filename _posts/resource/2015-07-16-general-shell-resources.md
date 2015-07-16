@@ -6,7 +6,7 @@ tags: Shell
 keywords: Shell
 description:
 ---
-##原文地址
+## 原文地址
 [Shell 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-shell-resources.html)
 
 ## 常用指令

@@ -5,7 +5,7 @@ category: 资源
 tags: Git
 keywords: Git
 ---
-##原文地址
+## 原文地址
 [Git 常用资源 -- yansu.org](http://yansu.org/2014/01/15/general-git-resources.html)
 
 ## 库管理
