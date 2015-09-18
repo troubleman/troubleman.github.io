@@ -33,11 +33,12 @@ disqus_shortname: peiwen-hao
 
 
 # Build settings
-markdown: kramdown
+markdown:    kramdown
 highlighter: pygments
 
 kramdown:
   input: GFM
+  enable_coderay: true
 
 sass:
   style: compressed

@@ -45,18 +45,17 @@ tags: algorithm invertBinaryTree
 
 用php数组来模拟数据结构，如下：
 
-```php
-    $root = array(
-        'val'   =>4,
-        'left'  =>array('val'=>2,'left'=>1,'right'=>3),
-        'right' =>array('val'=>7,'left'=>6,'right'=>9)
-    );
-```
+{% highlight ruby %}
+$root = array(
+    'val'   =>4,
+    'left'  =>array('val'=>2,'left'=>1,'right'=>3),
+    'right' =>array('val'=>7,'left'=>6,'right'=>9)
+);
+{% endhighlight %}
 
 有了数据的结构接下来就是具体的函数实现了：
 
-```php
-
+{% highlight ruby %}
 function invertTree($root){
     if(!empty($root['val'])){
         $tmp = invertTree($root['left']);
@@ -66,18 +65,16 @@ function invertTree($root){
     }
     return $root;
 }
-```
+{% endhighlight %}
 
 测试一下：
 
-```php
-
+{% highlight ruby %}
 echo "翻转前：";
 print_r($root);
 echo "翻转后：";
 print_r(invertTree($root));
-
-```
+{% endhighlight %}
 
 结果：
 
